@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend Peta');
+
 body {
-  margin: 0;
+  background-color: #f1f1f1;
+  padding: 20px;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +14,13 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.main {
+  max-width: 80%;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
 }
